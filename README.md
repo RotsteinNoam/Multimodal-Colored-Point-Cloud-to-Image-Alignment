@@ -5,4 +5,4 @@ This is a repo of the [paper](https://openaccess.thecvf.com/content/CVPR2022/htm
 We encourage you to see an implementation of it and an example how to use it in the following [colab](https://colab.research.google.com/drive/1M_FX4BNDZdSvyzG-htjs-g_IlSvn1mwM#scrollTo=D9dS327Qjef_).
 This demonstration includes an example in which we show how to optimize the color difference between a colored point cloud and an image under multimodality settings.
 
-[](https://drive.google.com/uc?export=view&id=100in8Tn2bvdf7eNVDa0Y4hkcUPHuQJgD)
+![](https://drive.google.com/uc?export=view&id=100in8Tn2bvdf7eNVDa0Y4hkcUPHuQJgD)
